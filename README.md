@@ -2,8 +2,13 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=cc0066&height=200&section=header&text=Hello,%20Aine&fontSize=60&fontColor=f2f2f2)
 
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+### <center> ✨Tech Stack  ✨ </center>
+<center>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+  
+</center>
 
 <!--
 **aine-jeong/aine-jeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
