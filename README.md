@@ -2,8 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=cc0066&height=200&section=header&text=Hello,%20Aine&fontSize=60&fontColor=f2f2f2)
 
-### <center> ✨Tech Stack ✨ </center>
-
 <h2 align="center">✨Tech Stack ✨</h2>
 <center>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
